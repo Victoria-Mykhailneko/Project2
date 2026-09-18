@@ -10,7 +10,7 @@
 
 
 ## 📋 Завдання 1
-![Завдання]<img width="500" height="68" alt="image" src="https://github.com/user-attachments/assets/246aa62e-2c38-4ac5-abe8-eef43dac2ee0" />
+<img width="500" height="68" alt="image" src="https://github.com/user-attachments/assets/246aa62e-2c38-4ac5-abe8-eef43dac2ee0" />
 
 
 ---
@@ -28,7 +28,8 @@
 <img width="496" height="310" alt="image" src="https://github.com/user-attachments/assets/23f66854-d1a2-4d70-8c9c-83ed634f757a" />
 <img width="502" height="310" alt="image" src="https://github.com/user-attachments/assets/43c76e34-4ad7-4af5-8b5f-7892be5cf95d" />
 
-* **Опис роботи:** 
+* **Опис роботи:**
+  обраним кольором програма будує обрану зі списку фігуру
 ## 📋 Завдання2
 ![Завдання]<img width="500" height="65" alt="image" src="https://github.com/user-attachments/assets/1302be39-19b0-4679-a9ff-bcc8acce90d9" />
 
@@ -48,7 +49,8 @@
 <img width="502" height="305" alt="image" src="https://github.com/user-attachments/assets/1f65a10d-1c64-4eaa-b271-559be98b3332" />
 
 
-* **Опис роботи:** 
+* **Опис роботи:**
+  після натиснення кнопки старт запускається анімація. Кнопка стоп зупиняє відтворення
 ## 📋 Завдання 3
 ![Завдання]<img width="492" height="68" alt="image" src="https://github.com/user-attachments/assets/cef0a5c0-9958-4a2f-8d75-7f6761eb150c" />
 
@@ -65,11 +67,12 @@
 
 
 ### 2. Результат  
+відтворення необхідного аудіо файлу
 
 
 
-
-* **Опис роботи:** 
+* **Опис роботи:**
+  користувач обирає потрібне слово і натискає кнопку Відтворити, після чого слухає аудіо файл
 ---
 
 
